@@ -1,11 +1,10 @@
 ___
 
-<a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' /></a>
 ___
 
 # K Nearest Neighbors Project 
+This is a simple project to demonstrate the K-Nearest-Neighbours algorithm on a supervised set. The given project consists of an unknown dataset, in which we predict the TARGET_CLASS attribute. In many cases, we will end up working on unknown datasets to predict the class.
 
-Welcome to the KNN Project! This will be a simple project very similar to the lecture, except you'll be given another data set. Go ahead and just follow the directions below.
 ## Import Libraries
 **Import pandas,seaborn, and the usual libraries.**
 
